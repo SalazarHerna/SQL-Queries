@@ -3,7 +3,8 @@ Advanced SQL queries, including joins, CTEs, window functions, and data transfor
 
 [Example Queries 1](https://github.com/SalazarHerna/SQL-Queries/blob/5df644129d998899d60fc1fd0798eb4a8463c144/Queries/Example1)
 
-[Example Queries 2]( )
+[Example Queries 2](https://github.com/SalazarHerna/SQL-Queries/blob/7e577ab68dab7d77b7de99a8159f4557e2ec19eb/Queries/Example%202)
+
 ---
 ## Objectives
 
