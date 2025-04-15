@@ -2,6 +2,7 @@
 Advanced SQL queries, including joins, CTEs, window functions, and data transformation techniques to build and manage cloud data warehouses. The project focuses on creating, optimizing, and querying data warehouses using cloud platforms, along with automating steps in a data pipeline. 
 
 [Example Queries 1](https://github.com/SalazarHerna/SQL-Queries/blob/5df644129d998899d60fc1fd0798eb4a8463c144/Queries/Example1)
+
 [Example Queries 2]( )
 ---
 ## Objectives
