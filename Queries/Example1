@@ -1,14 +1,4 @@
 ---------------------------------
--- WEEK #1 - SQL REFRESHER
----------------------------------
-
--- Use CTRL (OR CMD) + ENTR to execute a select command.
-
--- Choose the role to use.
--- We will use "sysadmin" to create the warehouse, database, and tables.
-USE ROLE sysadmin;
-
----------------------------------
 -- CREATING WAREHOUSES & DATABASES
 ---------------------------------
 
